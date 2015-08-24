@@ -1,3 +1,5 @@
+# Question
+
 Our client needs an application that can calculate the sum of generation 
 for all power stations in a collection of regions, over *n* points in time.
 
@@ -12,19 +14,19 @@ The output should be another json file with the following format (minus the comm
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
 		"Region": "Brisbane CBD",
-		"SummedGeneration": 1000 // sum of the generation for each power station in the region "Brisbane CBD" for 11AM
+		"SummedGeneration": 1000 // summed generation for each power station in the region "Brisbane CBD" for 11AM
 	},
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
 		"Region": "South-West Queensland",
-		"SummedGeneration": 1500 // sum of the generation for each power station in the region "South-West Queensland" for 11AM
+		"SummedGeneration": 1500 // summed generation for each power station in the region "South-West Queensland" for 11AM
 	},
 	...
 	,
 	{
 		"TimeStamp": "2015-08-17T11:05:00+10:00",
 		"Region": "Brisbane CBD",
-		"SummedGeneration": 900 // sum of the generation for each power station in the region "Brisbane CBD" for 11:05AM
+		"SummedGeneration": 900 // summed generation for each power station in the region "Brisbane CBD" for 11:05AM
 	},
 	...
 ]
