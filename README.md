@@ -6,7 +6,7 @@ for all power stations in a collection of regions, over *n* points in time.
 The application takes three json files as input:
 - **station-metadata.json:** A collection of power station metadata including the id, name and GPS coordinates for each power station;
 - **station-generation.json:** A collection of generation readings for each power station, for *n* points in time;
-- **regions.json:** A collection of circular regions, defined by their radius and GPS coordinates.
+- **regions.json:** A collection of circular regions, defined by their radius (inclusive) and GPS coordinates.
 
 All latitudes and longitudes are in decimal degrees, and all generation is in megawatts (MW).
 

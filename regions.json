@@ -1,20 +1,32 @@
 [
     {
-        "Name": "Brisbane CBD",
-        "RadiusInKm": 100,
-        "Latitude": -27.4702796,
-        "Longitude": 153.023036
+        "Name": "QLD",
+        "RadiusInKm": 1000,
+        "Latitude": -22.024545601240327,
+        "Longitude": 146.8212890625
     },
     {
-        "Name": "South-West Queensland",
-        "RadiusInKm": 640,
-        "Latitude": -27.916766641249062,
-        "Longitude": 145.4150390625
+        "Name": "NSW",
+        "RadiusInKm": 504,
+        "Latitude": -32.472695022061494,
+        "Longitude": 148.0517578125
     },
     {
-        "Name": "North-West Queensland",
-        "RadiusInKm": 640,
-        "Latitude": -20.879342971957897,
-        "Longitude": 142.5146484375
+        "Name": "VIC",
+        "RadiusInKm": 257,
+        "Latitude": -38.151837403006766,
+        "Longitude": 144.20654296875
+    },
+    {
+        "Name": "SA",
+        "RadiusInKm": 626,
+        "Latitude": -31.503629305773018,
+        "Longitude": 135.3955078125
+    },
+    {
+        "Name": "TAS",
+        "RadiusInKm": 213,
+        "Latitude": -41.90227704096369,
+        "Longitude": 146.513671875
     }
 ]
