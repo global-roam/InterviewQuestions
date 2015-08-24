@@ -1,0 +1,1795 @@
+// A collection of power station metadata, with the id, name and GPS coordinates for each power station
+
+// -- Units --
+// Latitude/Longitude: Decimal Degrees
+
+[
+    {
+        "StationId": "AGLHAL",
+        "Name": "Hallett Power Station",
+        "Latitude": -33.349442,
+        "Longitude": 138.751007
+    },
+    {
+        "StationId": "AGLNOW1",
+        "Name": "West Nowra Landfill Gas Power Generation Facility",
+        "Latitude": -34.882050,
+        "Longitude": 150.551407
+    },
+    {
+        "StationId": "AGLSOM",
+        "Name": "Somerton Power Station",
+        "Latitude": -37.631100,
+        "Longitude": 144.953049
+    },
+    {
+        "StationId": "AMCORGR",
+        "Name": "Amcor Glass, Gawler Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "ANGASTON",
+        "Name": "ANGASTON POWER STATION",
+        "Latitude": -34.504719,
+        "Longitude": 139.049667
+    },
+    {
+        "StationId": "APPIN",
+        "Name": "Appin Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "APS",
+        "Name": "ANGELSEA POWER STATION",
+        "Latitude": -38.386806,
+        "Longitude": 144.182053
+    },
+    {
+        "StationId": "AS_NSW1",
+        "Name": "Station ID - Dummy (NSCAS)",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "AWABAREF",
+        "Name": "Awaba Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "B2PS",
+        "Name": "BRAEMAR 2 POWER STATION",
+        "Latitude": -27.115202,
+        "Longitude": 150.900635
+    },
+    {
+        "StationId": "BANKSPT",
+        "Name": "Bankstown Sports Club Plant Units",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BAPS",
+        "Name": "Banimboola Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BARCALDN",
+        "Name": "Barcaldine Power Station",
+        "Latitude": -23.552372,
+        "Longitude": 145.313858
+    },
+    {
+        "StationId": "BARRON",
+        "Name": "Barron Gorge Power Station",
+        "Latitude": -16.850393,
+        "Longitude": 145.646515
+    },
+    {
+        "StationId": "BASSLINK",
+        "Name": "Basslink HVDC Link",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BASTYAN",
+        "Name": "Bastyan Power Station",
+        "Latitude": -41.736061,
+        "Longitude": 145.532150
+    },
+    {
+        "StationId": "BAYSW",
+        "Name": "Bayswater Power Station",
+        "Latitude": -32.396305,
+        "Longitude": 150.949066
+    },
+    {
+        "StationId": "BBASEHOS",
+        "Name": "Ballarat Base Hospital Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BBP31",
+        "Name": "Bell Bay Three Power Station",
+        "Latitude": -41.142632,
+        "Longitude": 146.902313
+    },
+    {
+        "StationId": "BDONGHYD",
+        "Name": "Burrendong Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BELLBAY",
+        "Name": "BELL BAY",
+        "Latitude": -41.142632,
+        "Longitude": 146.902313
+    },
+    {
+        "StationId": "BERWICK",
+        "Name": "Berwick Power Plant",
+        "Latitude": -38.004175,
+        "Longitude": 145.329466
+    },
+    {
+        "StationId": "BHASZINC",
+        "Name": "BHAS ZINC PLANT SA",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BHILLGT",
+        "Name": "Broken Hill Gas Turbines",
+        "Latitude": -31.986307,
+        "Longitude": 141.420350
+    },
+    {
+        "StationId": "BHWF",
+        "Name": "Bald Hills Wind Farm",
+        "Latitude": -38.768000,
+        "Longitude": 145.911000
+    },
+    {
+        "StationId": "BLOWER",
+        "Name": "BLOWERING",
+        "Latitude": -35.398617,
+        "Longitude": 148.246277
+    },
+    {
+        "StationId": "BLUFF",
+        "Name": "The Bluff Wind Farm",
+        "Latitude": -33.392178,
+        "Longitude": 138.791138
+    },
+    {
+        "StationId": "BLULAKE",
+        "Name": "Blue Lake Milling Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BOCOROCK",
+        "Name": "Boco Rock Wind Farm",
+        "Latitude": -36.433437,
+        "Longitude": 149.296646
+    },
+    {
+        "StationId": "BOLIVAR",
+        "Name": "SA Water Bolivar Waste Water Treatment (WWT) Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BPLANDF",
+        "Name": "Browns Plains Landfill Gas PS",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "BRAEMARA",
+        "Name": "Braemar Power Station",
+        "Latitude": -27.115202,
+        "Longitude": 150.900635
+    },
+    {
+        "StationId": "BROADMDW",
+        "Name": "Broadmeadows Landfill Gas Power Station",
+        "Latitude": -37.687777,
+        "Longitude": 144.966311
+    },
+    {
+        "StationId": "BROOKLYN",
+        "Name": "Brooklyn LFG U1-3",
+        "Latitude": -37.817946,
+        "Longitude": 144.831921
+    },
+    {
+        "StationId": "BROWNMT",
+        "Name": "Brown Mountain Hydro Power Station",
+        "Latitude": -36.595005,
+        "Longitude": 149.473587
+    },
+    {
+        "StationId": "BURRIN",
+        "Name": "Burrinjuck Hydro Power Station",
+        "Latitude": -35.002335,
+        "Longitude": 148.583893
+    },
+    {
+        "StationId": "BUTLERSG",
+        "Name": "Butlers Gorge Power Station",
+        "Latitude": -42.267307,
+        "Longitude": 146.262314
+    },
+    {
+        "StationId": "BWTR1",
+        "Name": "Broadwater Power Station",
+        "Latitude": -29.011538,
+        "Longitude": 153.433640
+    },
+    {
+        "StationId": "CALLIDE",
+        "Name": "Callide Power Station",
+        "Latitude": -24.345024,
+        "Longitude": 150.619797
+    },
+    {
+        "StationId": "CALLIDEC",
+        "Name": "CALLIDE C NETT OFF",
+        "Latitude": -24.334097,
+        "Longitude": 150.627991
+    },
+    {
+        "StationId": "CALLIDEC1",
+        "Name": "CALLIDE C NETT OFF",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CANUNDA1",
+        "Name": "CANUNDA WIND FARM ",
+        "Latitude": -37.610832,
+        "Longitude": 140.287216
+    },
+    {
+        "StationId": "CAPTL_WF",
+        "Name": "Capital Wind Farm",
+        "Latitude": -35.157532,
+        "Longitude": 149.491653
+    },
+    {
+        "StationId": "CATHROCK",
+        "Name": "CATHEDRAL ROCKS",
+        "Latitude": -34.856071,
+        "Longitude": 135.585541
+    },
+    {
+        "StationId": "CESF",
+        "Name": "Capital East Solar Farm",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CETHANA",
+        "Name": "Cethana Power Station",
+        "Latitude": -41.480419,
+        "Longitude": 146.132965
+    },
+    {
+        "StationId": "CHALLWF",
+        "Name": "Challicum Hills Wind Farm",
+        "Latitude": -37.405758,
+        "Longitude": 143.113922
+    },
+    {
+        "StationId": "CHPSTWF",
+        "Name": "Chepstowe Wind Farm",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CLAYTON",
+        "Name": "Clayton Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CLEMGPWF",
+        "Name": "Clements Gap Wind Farm",
+        "Latitude": -33.503258,
+        "Longitude": 138.110764
+    },
+    {
+        "StationId": "CLOVER",
+        "Name": "CLOVER POWER STATION",
+        "Latitude": -36.783802,
+        "Longitude": 147.219177
+    },
+    {
+        "StationId": "CLUNY",
+        "Name": "Cluny Power Station",
+        "Latitude": -42.506496,
+        "Longitude": 146.681107
+    },
+    {
+        "StationId": "CODRGTON",
+        "Name": "Codrington Wind Farm",
+        "Latitude": -38.281715,
+        "Longitude": 141.961380
+    },
+    {
+        "StationId": "COLNSV",
+        "Name": "Collinsville Power Station",
+        "Latitude": -20.545004,
+        "Longitude": 147.804688
+    },
+    {
+        "StationId": "COLONGRA",
+        "Name": "Colongra Power Station",
+        "Latitude": -33.211536,
+        "Longitude": 151.545609
+    },
+    {
+        "StationId": "CONDONG1",
+        "Name": "Condong Power Station",
+        "Latitude": -28.313454,
+        "Longitude": 153.434128
+    },
+    {
+        "StationId": "COPTNHYD",
+        "Name": "Copeton Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CORIO",
+        "Name": "Corio Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "CPSA",
+        "Name": "Condamine Power Station A",
+        "Latitude": -26.673538,
+        "Longitude": 150.284637
+    },
+    {
+        "StationId": "CULLERIN",
+        "Name": "Cullerin Range Wind Farm",
+        "Latitude": -34.790405,
+        "Longitude": 149.391922
+    },
+    {
+        "StationId": "DAANDINE",
+        "Name": "Daandine Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DARTM",
+        "Name": "DARTMOUTH POWER STATION",
+        "Latitude": -36.558670,
+        "Longitude": 147.524078
+    },
+    {
+        "StationId": "DDPS1",
+        "Name": "Darling Downs Power Station",
+        "Latitude": -27.111109,
+        "Longitude": 150.905472
+    },
+    {
+        "StationId": "DEIBDL",
+        "Name": "Bairnsdale Power Station",
+        "Latitude": -37.843399,
+        "Longitude": 147.564362
+    },
+    {
+        "StationId": "DEVILS_G",
+        "Name": "Devils Gate Power Station",
+        "Latitude": -41.350323,
+        "Longitude": 146.263199
+    },
+    {
+        "StationId": "DG_NSW1",
+        "Name": "NSW1 Dummy Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DG_QLD1",
+        "Name": "QLD1 Dummy Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DG_SA1",
+        "Name": "SA1 Dummy Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DG_TAS1",
+        "Name": "TAS1 Dummy Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DG_VIC1",
+        "Name": "VIC1 Dummy Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DIRECTLINK",
+        "Name": "DLINK INTERCONNECTOR",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "DRYCGT",
+        "Name": "Dry Creek Gas Turbine Station",
+        "Latitude": -34.847458,
+        "Longitude": 138.581833
+    },
+    {
+        "StationId": "EASTCRK",
+        "Name": "Eastern Creek LFG PS Units 1-4",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "EASTCRK2",
+        "Name": "Eastern Creek 2 Gas Utilisation Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "EDLRGNRD",
+        "Name": "Roghan Road LFG Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "EILDON",
+        "Name": "EILDON POWER STATION",
+        "Latitude": -37.227322,
+        "Longitude": 145.930069
+    },
+    {
+        "StationId": "EILDONPD",
+        "Name": "Eildon Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "ENERGYB",
+        "Name": "Energy Brix Complex Power Station",
+        "Latitude": -38.254089,
+        "Longitude": 146.415054
+    },
+    {
+        "StationId": "ERARING",
+        "Name": "ERARING POWER STATION",
+        "Latitude": -33.062485,
+        "Longitude": 151.520355
+    },
+    {
+        "StationId": "ERG_AS",
+        "Name": "ERGON FREQUENCY CONTROL A.S.",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "ERGT01",
+        "Name": "Eraring Power Station",
+        "Latitude": -33.062485,
+        "Longitude": 151.520355
+    },
+    {
+        "StationId": "FARLEIGH",
+        "Name": "FARLEIGH MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "FISHER",
+        "Name": "Fisher Power Station",
+        "Latitude": -41.673512,
+        "Longitude": 146.268631
+    },
+    {
+        "StationId": "G/STONE",
+        "Name": "GLADSTONE POWER STATION",
+        "Latitude": -23.850960,
+        "Longitude": 151.219193
+    },
+    {
+        "StationId": "GERMCRK",
+        "Name": "German Creek Power Station",
+        "Latitude": -22.987756,
+        "Longitude": 148.581977
+    },
+    {
+        "StationId": "GLBWNHYD",
+        "Name": "Glenbawn Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "GLENMAGG",
+        "Name": "Glenmaggie Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "GLENNCRK",
+        "Name": "Glennies Creek Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "GORDON",
+        "Name": "Gordon Power Station",
+        "Latitude": -42.731079,
+        "Longitude": 145.976624
+    },
+    {
+        "StationId": "GRANGEAV",
+        "Name": "Grange Avenue Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "GULLRGWF",
+        "Name": "Gullen Range Wind Farm",
+        "Latitude": -34.646271,
+        "Longitude": 149.542089
+    },
+    {
+        "StationId": "GUNNING",
+        "Name": "Gunning Wind Farm",
+        "Latitude": -34.692509,
+        "Longitude": 149.381454
+    },
+    {
+        "StationId": "GUTHEGA",
+        "Name": "Guthega Power Station",
+        "Latitude": -36.350094,
+        "Longitude": 148.413605
+    },
+    {
+        "StationId": "HALAMRD",
+        "Name": "HALLAM ROAD RENEWABLE ENERGY FACILITY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "HALLWF",
+        "Name": "Hallett 1 Wind Farm",
+        "Latitude": -33.411095,
+        "Longitude": 138.707535
+    },
+    {
+        "StationId": "HALLWF2",
+        "Name": "Hallett 2 Wind Farm",
+        "Latitude": -33.547207,
+        "Longitude": 138.860428
+    },
+    {
+        "StationId": "HAZEL",
+        "Name": "Hazelwood Power Station",
+        "Latitude": -38.276764,
+        "Longitude": 146.391068
+    },
+    {
+        "StationId": "HEPWIND",
+        "Name": "Hepburn Community Wind Farm",
+        "Latitude": -37.427261,
+        "Longitude": 144.123337
+    },
+    {
+        "StationId": "HEZ",
+        "Name": "Hunter Economic Zone Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "HIGHBRY",
+        "Name": "Highbury Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "HLMSEW01",
+        "Name": "South East Water - Halllam Hydro Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "HUMENSW",
+        "Name": "Hume (NSW) Hydro Power Station",
+        "Latitude": -36.103348,
+        "Longitude": 147.031235
+    },
+    {
+        "StationId": "HUMEV",
+        "Name": "Hume (Vic) Hydro Power Station",
+        "Latitude": -36.106702,
+        "Longitude": 147.032572
+    },
+    {
+        "StationId": "HUNTVGT",
+        "Name": "Hunter Valley Gas Turbine",
+        "Latitude": -32.389946,
+        "Longitude": 150.965088
+    },
+    {
+        "StationId": "ICSM",
+        "Name": "ISIS Central Sugar Mill Co-generation Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "INVICTA",
+        "Name": "Invicta Sugar Mill",
+        "Latitude": -19.516889,
+        "Longitude": 147.106075
+    },
+    {
+        "StationId": "JACKSGUL",
+        "Name": "Jacks Gully Landfill Gas Power Station",
+        "Latitude": -34.072433,
+        "Longitude": 150.732254
+    },
+    {
+        "StationId": "JBUTTERS",
+        "Name": "John Butters Power Station",
+        "Latitude": -42.154831,
+        "Longitude": 145.534393
+    },
+    {
+        "StationId": "JEERA",
+        "Name": "Jeeralang \"A\" Power Station",
+        "Latitude": -38.275787,
+        "Longitude": 146.426132
+    },
+    {
+        "StationId": "JEERB",
+        "Name": "Jeeralang \"B\" Power Station",
+        "Latitude": -38.275787,
+        "Longitude": 146.426132
+    },
+    {
+        "StationId": "JINDABYNE",
+        "Name": "SNOWY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "JNDSHPS",
+        "Name": "Jindabyne Small Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "JOUNAMA",
+        "Name": "Jounama Small Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "KAREEYA",
+        "Name": "KAREEYA POWER STATION",
+        "Latitude": -17.766853,
+        "Longitude": 145.577881
+    },
+    {
+        "StationId": "KEEPIT",
+        "Name": "Keepit Hydro Power Station",
+        "Latitude": -30.879429,
+        "Longitude": 150.491867
+    },
+    {
+        "StationId": "KINCUMB",
+        "Name": "Kincumber Landfill Site",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "KOGANCK",
+        "Name": "Kogan Creek Power Station",
+        "Latitude": -26.917343,
+        "Longitude": 150.749268
+    },
+    {
+        "StationId": "KOOLKHAN",
+        "Name": "KOOLKHAN GAS TURBINE",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "KRCCOGEN",
+        "Name": "KRC Cogeneration Plant Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "LADBROKE",
+        "Name": "Ladbroke Grove Power Station",
+        "Latitude": -37.459599,
+        "Longitude": 140.782150
+    },
+    {
+        "StationId": "LEM_WIL",
+        "Name": "Lemonthyme / Wilmot Power Station",
+        "Latitude": -41.603668,
+        "Longitude": 146.138718
+    },
+    {
+        "StationId": "LI_WY_CA",
+        "Name": "Catagunya / Liapootah / Wayatinah Power Station",
+        "Latitude": -42.376080,
+        "Longitude": 146.509567
+    },
+    {
+        "StationId": "LIDDELL",
+        "Name": "Liddell Power Station",
+        "Latitude": -32.371609,
+        "Longitude": 150.975189
+    },
+    {
+        "StationId": "LK_ECHO",
+        "Name": "Lake Echo Power Station",
+        "Latitude": -42.253838,
+        "Longitude": 146.620621
+    },
+    {
+        "StationId": "LKBONNY_2",
+        "Name": "Lake Bonney Stage 2 Windfarm",
+        "Latitude": -37.708202,
+        "Longitude": 140.379349
+    },
+    {
+        "StationId": "LKBONNY1",
+        "Name": "Lake Bonney Wind Farm Stage 1",
+        "Latitude": -37.708202,
+        "Longitude": 140.379349
+    },
+    {
+        "StationId": "LKBONNY3",
+        "Name": "Lake Bonney Stage 3 Wind Farm",
+        "Latitude": -37.708202,
+        "Longitude": 140.379349
+    },
+    {
+        "StationId": "LNGS",
+        "Name": "Laverton North Power Station",
+        "Latitude": -37.841721,
+        "Longitude": 144.788651
+    },
+    {
+        "StationId": "LONGFORD",
+        "Name": "LONGFORD PLANT",
+        "Latitude": -38.224983,
+        "Longitude": 147.167526
+    },
+    {
+        "StationId": "LONSDALE",
+        "Name": "Lonsdale Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "LOYYANGA",
+        "Name": "LOY YANG A POWER STATION",
+        "Latitude": -38.254864,
+        "Longitude": 146.573853
+    },
+    {
+        "StationId": "LOYYB",
+        "Name": "LOY YANG B POWER STATION",
+        "Latitude": -38.257324,
+        "Longitude": 146.586365
+    },
+    {
+        "StationId": "LUCAS2S2",
+        "Name": "Lucas Heights 2 Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "LUCASHGT",
+        "Name": "Lucas Heights II Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "LYGS",
+        "Name": "VALLEY POWER",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MACARTH",
+        "Name": "Macarthur Wind Farm",
+        "Latitude": -38.047009,
+        "Longitude": 142.165833
+    },
+    {
+        "StationId": "MACKAY",
+        "Name": "MACKAY GAS TURBINE",
+        "Latitude": -21.144634,
+        "Longitude": 149.159393
+    },
+    {
+        "StationId": "MACKNADE",
+        "Name": "MACKNADE SUGAR MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MACKNTSH",
+        "Name": "Mackintosh Power Station",
+        "Latitude": -41.699883,
+        "Longitude": 145.646240
+    },
+    {
+        "StationId": "MARIAN",
+        "Name": "MARIAN MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MBAHNTH",
+        "Name": "Moranbah North Waste Coal Mine Gas Power Station",
+        "Latitude": -21.896616,
+        "Longitude": 147.950551
+    },
+    {
+        "StationId": "MCKAY",
+        "Name": "Bogong / Mackay Power Station",
+        "Latitude": -36.858833,
+        "Longitude": 147.234299
+    },
+    {
+        "StationId": "MEADOWBK",
+        "Name": "Meadowbank Power Station",
+        "Latitude": -42.611301,
+        "Longitude": 146.845642
+    },
+    {
+        "StationId": "MIDLDPS",
+        "Name": "Midlands Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MILLMERN",
+        "Name": "Millmerran Power Plant",
+        "Latitude": -27.961733,
+        "Longitude": 151.279160
+    },
+    {
+        "StationId": "MINTARO",
+        "Name": "Mintaro Gas Turbine Station",
+        "Latitude": -33.903229,
+        "Longitude": 138.737930
+    },
+    {
+        "StationId": "MLWF",
+        "Name": "Mortons Lane Wind Farm",
+        "Latitude": -37.817020,
+        "Longitude": 142.470230
+    },
+    {
+        "StationId": "MM",
+        "Name": "MUNMORAH POWER STATION",
+        "Latitude": -33.211941,
+        "Longitude": 151.541855
+    },
+    {
+        "StationId": "MORANBAH",
+        "Name": "Moranbah Generation Project",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MORNW",
+        "Name": "Mornington Waste Disposal Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MORTLK",
+        "Name": "Mortlake Power Station",
+        "Latitude": -38.066776,
+        "Longitude": 142.673462
+    },
+    {
+        "StationId": "MP",
+        "Name": "MT PIPER POWER STATION",
+        "Latitude": -33.359066,
+        "Longitude": 150.031403
+    },
+    {
+        "StationId": "MSTUART",
+        "Name": "Mt Stuart Power Station",
+        "Latitude": -19.337902,
+        "Longitude": 146.850403
+    },
+    {
+        "StationId": "MTMERCER",
+        "Name": "Mt Mercer Wind Farm",
+        "Latitude": -37.838132,
+        "Longitude": 143.870846
+    },
+    {
+        "StationId": "MTMILLAR",
+        "Name": "Mt Millar Wind Farm",
+        "Latitude": -33.629128,
+        "Longitude": 136.696747
+    },
+    {
+        "StationId": "MULGRAVE",
+        "Name": "MULGRAVE CENTRAL MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MURLINKP",
+        "Name": "MURLINK INTCONNECTOR",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "MURRAY",
+        "Name": "Murray Power Station",
+        "Latitude": -36.246677,
+        "Longitude": 148.190735
+    },
+    {
+        "StationId": "MURRAY1",
+        "Name": "MURRAY1",
+        "Latitude": -36.246677,
+        "Longitude": 148.190735
+    },
+    {
+        "StationId": "MURRAY2",
+        "Name": "MURRAY2",
+        "Latitude": -36.242577,
+        "Longitude": 148.135910
+    },
+    {
+        "StationId": "MUSSELRO",
+        "Name": "Musselroe Wind Farm",
+        "Latitude": -40.885227,
+        "Longitude": 148.139221
+    },
+    {
+        "StationId": "NBHWF",
+        "Name": "North Brown Hill Wind Farm",
+        "Latitude": -33.262806,
+        "Longitude": 138.701706
+    },
+    {
+        "StationId": "NEWPORT",
+        "Name": "NEWPORT POWER STATION",
+        "Latitude": -37.841564,
+        "Longitude": 144.894257
+    },
+    {
+        "StationId": "NINEWIL",
+        "Name": "Nine Network Willoughby Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "NORTHGT",
+        "Name": "NORTHERN GAS TURBINE",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "NORTHP",
+        "Name": "NORTHERN POWER STATION",
+        "Latitude": -32.543087,
+        "Longitude": 137.787827
+    },
+    {
+        "StationId": "NPPPPS",
+        "Name": "Pelican Point Power Station",
+        "Latitude": -34.765232,
+        "Longitude": 138.505707
+    },
+    {
+        "StationId": "NYNGAN",
+        "Name": "Nyngan Solar Plant",
+        "Latitude": -31.554537,
+        "Longitude": 147.086806
+    },
+    {
+        "StationId": "OAKEY",
+        "Name": "OAKEY POWER STATION",
+        "Latitude": -27.418613,
+        "Longitude": 151.680252
+    },
+    {
+        "StationId": "OAKLAND",
+        "Name": "Oaklands Hill Wind Farm",
+        "Latitude": -37.680561,
+        "Longitude": 142.552750
+    },
+    {
+        "StationId": "OCPS",
+        "Name": "Oaky Creek Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "OSBORNE",
+        "Name": "OSBORNE POWER STATION",
+        "Latitude": -34.798187,
+        "Longitude": 138.508057
+    },
+    {
+        "StationId": "PALOONA",
+        "Name": "Paloona Power Station",
+        "Latitude": -41.282627,
+        "Longitude": 146.248901
+    },
+    {
+        "StationId": "PEDLER",
+        "Name": "Pedler Creek Landfill Gas Power Station Units 1-3",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PINDARI",
+        "Name": "Pindari Hydro Power Station",
+        "Latitude": -29.388439,
+        "Longitude": 151.245819
+    },
+    {
+        "StationId": "PIONEER",
+        "Name": "Pioneer Sugar Mill",
+        "Latitude": -19.558010,
+        "Longitude": 147.330948
+    },
+    {
+        "StationId": "PLANECRK",
+        "Name": "PLANE CREEK MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PLAYF",
+        "Name": "Playford B Power Station",
+        "Latitude": -32.538631,
+        "Longitude": 137.781998
+    },
+    {
+        "StationId": "PLEYSTOW",
+        "Name": "PLEYSTOWE MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PMATTAEP",
+        "Name": "EarthPower Biomass Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PORTLAND",
+        "Name": "PORTLAND",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PORTLCN",
+        "Name": "Port Lincoln Gas Turbine",
+        "Latitude": -34.700096,
+        "Longitude": 135.804016
+    },
+    {
+        "StationId": "PORTWF",
+        "Name": "Portland Wind Farm",
+        "Latitude": -38.367840,
+        "Longitude": 141.541321
+    },
+    {
+        "StationId": "PTH",
+        "Name": "POINT HENRY SMELTER",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "PTINA110",
+        "Name": "Poatina Power Station",
+        "Latitude": -41.811756,
+        "Longitude": 146.919052
+    },
+    {
+        "StationId": "PTINA220",
+        "Name": "Poatina Power Station",
+        "Latitude": -41.811756,
+        "Longitude": 146.919052
+    },
+    {
+        "StationId": "QUARANTN",
+        "Name": "Quarantine Power Station",
+        "Latitude": -34.779430,
+        "Longitude": 138.522995
+    },
+    {
+        "StationId": "RACOMIL",
+        "Name": "Racecourse Mill Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RCOURSE",
+        "Name": "RACECOURSE MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "REDBANK1",
+        "Name": "Redbank Power Station",
+        "Latitude": -32.580124,
+        "Longitude": 151.071701
+    },
+    {
+        "StationId": "REECE",
+        "Name": "Reece Power Station",
+        "Latitude": -41.723827,
+        "Longitude": 145.135834
+    },
+    {
+        "StationId": "REMOUNT",
+        "Name": "Remount Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "REPULSE",
+        "Name": "Repulse Power Station",
+        "Latitude": -42.507668,
+        "Longitude": 146.646896
+    },
+    {
+        "StationId": "ROCHEDAL",
+        "Name": "Rochedale Renewable Energy Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "ROMA",
+        "Name": "Roma Gas Turbine Station",
+        "Latitude": -26.577320,
+        "Longitude": 148.840042
+    },
+    {
+        "StationId": "ROWALLAN",
+        "Name": "Rowallan Power Station",
+        "Latitude": -41.729408,
+        "Longitude": 146.217255
+    },
+    {
+        "StationId": "ROYALLA",
+        "Name": "Royalla Solar Farm",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RPCG",
+        "Name": "Rocky Point Cogeneration Plant",
+        "Latitude": -27.733455,
+        "Longitude": 153.327595
+    },
+    {
+        "StationId": "RT_NSW1",
+        "Name": "RESERVE TRADER NSW1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RT_QLD1",
+        "Name": "RESERVE TRADER QLD1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RT_SA1",
+        "Name": "RESERVE TRADER SA1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RT_TAS1",
+        "Name": "RESERVE TRADER TAS1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RT_VIC1",
+        "Name": "RESERVE TRADER VIC1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "RUBICON",
+        "Name": "Rubicon Mountain Streams Station",
+        "Latitude": -37.325123,
+        "Longitude": 145.861954
+    },
+    {
+        "StationId": "SHEP1",
+        "Name": "Shepparton Wastewater Treatment Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SHOALHAV",
+        "Name": "Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps)",
+        "Latitude": -34.729637,
+        "Longitude": 150.474716
+    },
+    {
+        "StationId": "SITHE",
+        "Name": "SMITHFIELD ENERGY FACILITY",
+        "Latitude": -33.833607,
+        "Longitude": 150.876160
+    },
+    {
+        "StationId": "SNOWNTH",
+        "Name": "Snowtown Wind Farm Stage 2 North",
+        "Latitude": -33.698590,
+        "Longitude": 138.172552
+    },
+    {
+        "StationId": "SNOWSTH",
+        "Name": "Snowtown South Wind Farm",
+        "Latitude": -33.862678,
+        "Longitude": 138.124849
+    },
+    {
+        "StationId": "SNOWTOWN",
+        "Name": "Snowtown Wind Farm Units 1 And 47",
+        "Latitude": -33.759171,
+        "Longitude": 138.135056
+    },
+    {
+        "StationId": "SNOWY",
+        "Name": "Tumut 3 Pumps",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SNOWY1",
+        "Name": "Tumut 3 Power Station",
+        "Latitude": -35.611386,
+        "Longitude": 148.291719
+    },
+    {
+        "StationId": "SNOWY2",
+        "Name": "Tumut Power Station",
+        "Latitude": -35.911160,
+        "Longitude": 148.385849
+    },
+    {
+        "StationId": "SNOWY3",
+        "Name": "Guthega Power Station",
+        "Latitude": -36.350094,
+        "Longitude": 148.413605
+    },
+    {
+        "StationId": "SNOWY4",
+        "Name": "SNOWY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SNOWY5",
+        "Name": "SNOWY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SNOWY6",
+        "Name": "Blowering Power Station",
+        "Latitude": -35.398617,
+        "Longitude": 148.246277
+    },
+    {
+        "StationId": "SNOWYP",
+        "Name": "SNOWY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SNUG",
+        "Name": "SNUGGERY POWER STATION",
+        "Latitude": -37.665154,
+        "Longitude": 140.415588
+    },
+    {
+        "StationId": "SNWYGJP2",
+        "Name": "Jindabyne Pump At Guthega",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SOMERSET",
+        "Name": "SOMERSET DAM",
+        "Latitude": -27.115730,
+        "Longitude": 152.556473
+    },
+    {
+        "StationId": "STANVAC",
+        "Name": "Pt Stanvac Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "STANWELL",
+        "Name": "STANWELL POWER STATION",
+        "Latitude": -23.509956,
+        "Longitude": 150.319138
+    },
+    {
+        "StationId": "STARFHILL",
+        "Name": "Starfish Hill Wind Farm",
+        "Latitude": -35.570496,
+        "Longitude": 138.162003
+    },
+    {
+        "StationId": "STGEORGE",
+        "Name": "St George Leagues Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "STHBKTEC",
+        "Name": "Southbank Institute Of Technology Unit 1 Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "STHJST",
+        "Name": "SOUTH JOHNSTONE",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "STPN1",
+        "Name": "STAPYLTON",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SUNCOAST",
+        "Name": "Suncoast Gold Macadamias",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SUNSHINE",
+        "Name": "SUNSHINE ENERGY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SVALE",
+        "Name": "Springvale Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "SWANBANK",
+        "Name": "Swanbank B Power Station & Swanbank E Gas Turbine",
+        "Latitude": -27.655432,
+        "Longitude": 152.817886
+    },
+    {
+        "StationId": "SYMEX",
+        "Name": "Symex Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TAHMOOR",
+        "Name": "Tahmoor Waste Coal Mine Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TALLAWAR",
+        "Name": "Tallawarra Power Station",
+        "Latitude": -34.522778,
+        "Longitude": 150.808075
+    },
+    {
+        "StationId": "TARALGA",
+        "Name": "Taralga Wind Farm",
+        "Latitude": -34.421925,
+        "Longitude": 149.864074
+    },
+    {
+        "StationId": "TARONG",
+        "Name": "TARONG POWER STATION",
+        "Latitude": -26.782146,
+        "Longitude": 151.915131
+    },
+    {
+        "StationId": "TARONGN",
+        "Name": "Tarong North Power Station",
+        "Latitude": -26.775984,
+        "Longitude": 151.914536
+    },
+    {
+        "StationId": "TARRALEA",
+        "Name": "Tarraleah Power Station",
+        "Latitude": -42.300800,
+        "Longitude": 146.457413
+    },
+    {
+        "StationId": "TATIARA",
+        "Name": "Tataria Bordertown Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TATURA",
+        "Name": "Tatura Biomass Generator",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TBLAND",
+        "Name": "TABLELAND MILL",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TEATREE",
+        "Name": "Tea Tree Gully Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TERALBA",
+        "Name": "TERALBA POWER STATION",
+        "Latitude": -32.945480,
+        "Longitude": 151.611908
+    },
+    {
+        "StationId": "TERMSTOR",
+        "Name": "Terminal Storage Mini Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TGNSS",
+        "Name": "Traralgon Network Support Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "THEDROP",
+        "Name": "The Drop Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TITREE",
+        "Name": "Veolia Ti Tree Bio Reactor",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TOMAGO",
+        "Name": "TOMAGO SMELTER",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TOORAWF",
+        "Name": "TOORA WIND FARM",
+        "Latitude": -38.650795,
+        "Longitude": 146.340042
+    },
+    {
+        "StationId": "TORRIS",
+        "Name": "TORRENS ISLAND POWER STATION",
+        "Latitude": -34.806995,
+        "Longitude": 138.523300
+    },
+    {
+        "StationId": "TOWER",
+        "Name": "Tower Power Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TREVALLN",
+        "Name": "Trevallyn Power Station",
+        "Latitude": -41.447746,
+        "Longitude": 147.086029
+    },
+    {
+        "StationId": "TRIBUTE",
+        "Name": "Tribute Power Station",
+        "Latitude": -41.812523,
+        "Longitude": 145.654037
+    },
+    {
+        "StationId": "TUMUT1",
+        "Name": "TUMUT1",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TUMUT2",
+        "Name": "TUMUT2",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "TUMUT3",
+        "Name": "TUMUT3",
+        "Latitude": -35.617115,
+        "Longitude": 148.287964
+    },
+    {
+        "StationId": "TUNGATIN",
+        "Name": "Tungatinah Power Station",
+        "Latitude": -42.296391,
+        "Longitude": 146.456406
+    },
+    {
+        "StationId": "TVCCPS",
+        "Name": "Tamar Valley Combined Cycle Power Station",
+        "Latitude": -41.142632,
+        "Longitude": 146.902313
+    },
+    {
+        "StationId": "URANQ",
+        "Name": "Uranquinty Power Station",
+        "Latitude": -35.177353,
+        "Longitude": 147.215652
+    },
+    {
+        "StationId": "UWS",
+        "Name": "UWS CO-GEN UNIT",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "VICMILL",
+        "Name": "Victoria Mill",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "VICSMLT",
+        "Name": "VICTORIAN SMELTER ANCILLARY SERVICES",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "VP",
+        "Name": "Vales Point \"B\" Power Station",
+        "Latitude": -33.160889,
+        "Longitude": 151.543777
+    },
+    {
+        "StationId": "VPGS",
+        "Name": "Valley Power Peaking Facility",
+        "Latitude": -38.254272,
+        "Longitude": 146.588806
+    },
+    {
+        "StationId": "WATERLWF",
+        "Name": "Waterloo Wind Farm",
+        "Latitude": -34.001015,
+        "Longitude": 138.914902
+    },
+    {
+        "StationId": "WAUBRAWF",
+        "Name": "WAUBRA WIND FARM",
+        "Latitude": -37.367599,
+        "Longitude": 143.592041
+    },
+    {
+        "StationId": "WCLASS",
+        "Name": "HRL TRAMWAY ROAD",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WDLNGN",
+        "Name": "Woodlawn Bioreactor Energy Generation Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WESTCBT",
+        "Name": "Western Suburbs League Club (Campbelltown) Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WESTILLA",
+        "Name": "West Illawarra Leagues Club Plant",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WG",
+        "Name": "WARRAGAMBA POWER STATION",
+        "Latitude": -33.882904,
+        "Longitude": 150.595398
+    },
+    {
+        "StationId": "WGULLY",
+        "Name": "WHYTES GULLY",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WHIT1",
+        "Name": "Whitwood Road Renewable Energy Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WILGAPK",
+        "Name": "Wilga Park Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WILGAPKB",
+        "Name": "Wilga Park B",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WILLHOV",
+        "Name": "William Hovell Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WINDHILL",
+        "Name": "Windy Hill Wind Farm",
+        "Latitude": -17.593855,
+        "Longitude": 145.529663
+    },
+    {
+        "StationId": "WINGF1",
+        "Name": "Wingfield 1 Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WINGF2",
+        "Name": "Wingfield 2 Landfill Gas Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WIVENHOE",
+        "Name": "WIVENHOE POWER STATION",
+        "Latitude": -27.371996,
+        "Longitude": 152.632065
+    },
+    {
+        "StationId": "WIVENSH",
+        "Name": "WIVENHOE SMALL HYDRO",
+        "Latitude": -27.394630,
+        "Longitude": 152.608932
+    },
+    {
+        "StationId": "WKIEWA",
+        "Name": "WEST KIEWA POWER STATION",
+        "Latitude": -36.759621,
+        "Longitude": 147.185989
+    },
+    {
+        "StationId": "WOLLERT",
+        "Name": "Wollert Renewable Energy Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WONWP",
+        "Name": "Wonthaggi Wind Farm",
+        "Latitude": -38.596413,
+        "Longitude": 145.551849
+    },
+    {
+        "StationId": "WOODLWN",
+        "Name": "Woodlawn Wind Farm",
+        "Latitude": -35.094631,
+        "Longitude": 149.576111
+    },
+    {
+        "StationId": "WOOLNTH1",
+        "Name": "Woolnorth Studland Bay / Bluff Point Wind Farm",
+        "Latitude": -40.728203,
+        "Longitude": 144.688690
+    },
+    {
+        "StationId": "WOYWOY",
+        "Name": "Woy Woy Landfill Site",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WPWF",
+        "Name": "Wattle Point Wind Farm",
+        "Latitude": -35.103199,
+        "Longitude": 137.720917
+    },
+    {
+        "StationId": "WW",
+        "Name": "Wallerawang Power Station",
+        "Latitude": -33.402660,
+        "Longitude": 150.083389
+    },
+    {
+        "StationId": "WYANGALA",
+        "Name": "Wyangala A Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WYANGALB",
+        "Name": "Wyangala B Power Station",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "WYNDW",
+        "Name": "Wyndham Waste Disposal Facility",
+        "Latitude": null,
+        "Longitude": null
+    },
+    {
+        "StationId": "YABULU",
+        "Name": "Townsville Gas Turbine",
+        "Latitude": -19.200848,
+        "Longitude": 146.618835
+    },
+    {
+        "StationId": "YALLOURN",
+        "Name": "YALLOURN 'W' POWER STATION",
+        "Latitude": -38.178425,
+        "Longitude": 146.342010
+    },
+    {
+        "StationId": "YAMBUK",
+        "Name": "YAMBUK WIND FARM",
+        "Latitude": -38.328529,
+        "Longitude": 142.042664
+    },
+    {
+        "StationId": "YARWUN",
+        "Name": "Yarwun Power Station",
+        "Latitude": -23.827908,
+        "Longitude": 151.154190
+    },
+    {
+        "StationId": "YWNGAHYD",
+        "Name": "Yarrawonga Hydro Power Station",
+        "Latitude": null,
+        "Longitude": null
+    }
+]

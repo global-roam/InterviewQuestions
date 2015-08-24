@@ -1,0 +1,5967 @@
+// A collection of generation readings for each power station, for n points in time
+
+// -- Units --
+// Generation: Megawatts
+
+[
+    {
+        "StationId": "AGLHAL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AGLNOW1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLSOM",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AMCORGR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ANGASTON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "APPIN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "APS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 146.250000
+    },
+    {
+        "StationId": "AS_NSW1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AWABAREF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "B2PS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BANKSPT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BAPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BARCALDN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BARRON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 25.560000
+    },
+    {
+        "StationId": "BASSLINK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BASTYAN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 78.840000
+    },
+    {
+        "StationId": "BAYSW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 2452.281300
+    },
+    {
+        "StationId": "BBASEHOS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BBP31",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": -3.400000
+    },
+    {
+        "StationId": "BDONGHYD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BELLBAY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BERWICK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHASZINC",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHILLGT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BHWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 97.701000
+    },
+    {
+        "StationId": "BLOWER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BLUFF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 7.700000
+    },
+    {
+        "StationId": "BLULAKE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BOCOROCK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 89.110000
+    },
+    {
+        "StationId": "BOLIVAR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BPLANDF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BRAEMARA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 159.000000
+    },
+    {
+        "StationId": "BROADMDW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROOKLYN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROWNMT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BURRIN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BUTLERSG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 9.199999
+    },
+    {
+        "StationId": "BWTR1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CALLIDE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 348.500000
+    },
+    {
+        "StationId": "CALLIDEC",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 807.950010
+    },
+    {
+        "StationId": "CALLIDEC1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CANUNDA1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 15.217752
+    },
+    {
+        "StationId": "CAPTL_WF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 127.531998
+    },
+    {
+        "StationId": "CATHROCK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 17.289999
+    },
+    {
+        "StationId": "CESF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CETHANA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CHALLWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 7.000000
+    },
+    {
+        "StationId": "CHPSTWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLAYTON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLEMGPWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": -0.216110
+    },
+    {
+        "StationId": "CLOVER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 10.260000
+    },
+    {
+        "StationId": "CLUNY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 16.476370
+    },
+    {
+        "StationId": "CODRGTON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLNSV",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLONGRA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CONDONG1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COPTNHYD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CORIO",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CPSA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 85.500000
+    },
+    {
+        "StationId": "CULLERIN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 30.420000
+    },
+    {
+        "StationId": "DAANDINE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DARTM",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 149.800000
+    },
+    {
+        "StationId": "DDPS1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 231.019470
+    },
+    {
+        "StationId": "DEIBDL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "DEVILS_G",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 62.445900
+    },
+    {
+        "StationId": "DG_NSW1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_QLD1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_SA1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_TAS1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_VIC1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DIRECTLINK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DRYCGT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EASTCRK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EASTCRK2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EDLRGNRD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EILDON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EILDONPD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ENERGYB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ERARING",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 932.550050
+    },
+    {
+        "StationId": "ERG_AS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ERGT01",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "FARLEIGH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "FISHER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 44.960000
+    },
+    {
+        "StationId": "G/STONE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 518.175000
+    },
+    {
+        "StationId": "GERMCRK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 38.099998
+    },
+    {
+        "StationId": "GLBWNHYD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENMAGG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENNCRK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GORDON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 290.392640
+    },
+    {
+        "StationId": "GRANGEAV",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GULLRGWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 158.868740
+    },
+    {
+        "StationId": "GUNNING",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 43.449120
+    },
+    {
+        "StationId": "GUTHEGA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALAMRD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALLWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 8.290000
+    },
+    {
+        "StationId": "HALLWF2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 10.350000
+    },
+    {
+        "StationId": "HAZEL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1302.000000
+    },
+    {
+        "StationId": "HEPWIND",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HEZ",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HIGHBRY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HLMSEW01",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HUMENSW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 16.780050
+    },
+    {
+        "StationId": "HUMEV",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": -0.360000
+    },
+    {
+        "StationId": "HUNTVGT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ICSM",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "INVICTA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 33.025002
+    },
+    {
+        "StationId": "JACKSGUL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JBUTTERS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 109.200000
+    },
+    {
+        "StationId": "JEERA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JEERB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JINDABYNE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JNDSHPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JOUNAMA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KAREEYA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 64.972500
+    },
+    {
+        "StationId": "KEEPIT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KINCUMB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KOGANCK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 721.700010
+    },
+    {
+        "StationId": "KOOLKHAN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KRCCOGEN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LADBROKE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LEM_WIL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 85.794450
+    },
+    {
+        "StationId": "LI_WY_CA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 173.497100
+    },
+    {
+        "StationId": "LIDDELL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1264.368580
+    },
+    {
+        "StationId": "LK_ECHO",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LKBONNY_2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 60.925240
+    },
+    {
+        "StationId": "LKBONNY1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 29.382780
+    },
+    {
+        "StationId": "LKBONNY3",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 16.355850
+    },
+    {
+        "StationId": "LNGS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.418720
+    },
+    {
+        "StationId": "LONGFORD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LONSDALE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LOYYANGA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 2013.000000
+    },
+    {
+        "StationId": "LOYYB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1069.169680
+    },
+    {
+        "StationId": "LUCAS2S2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LUCASHGT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LYGS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACARTH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 205.459990
+    },
+    {
+        "StationId": "MACKAY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.480000
+    },
+    {
+        "StationId": "MACKNADE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACKNTSH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 78.480000
+    },
+    {
+        "StationId": "MARIAN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MBAHNTH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 55.218754
+    },
+    {
+        "StationId": "MCKAY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.020000
+    },
+    {
+        "StationId": "MEADOWBK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MIDLDPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MILLMERN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 852.250000
+    },
+    {
+        "StationId": "MINTARO",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MLWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 5.010000
+    },
+    {
+        "StationId": "MM",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORANBAH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORNW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORTLK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 877.324950
+    },
+    {
+        "StationId": "MSTUART",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MTMERCER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 86.075000
+    },
+    {
+        "StationId": "MTMILLAR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 2.686313
+    },
+    {
+        "StationId": "MULGRAVE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURLINKP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 88.679500
+    },
+    {
+        "StationId": "MURRAY1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MUSSELRO",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 154.399990
+    },
+    {
+        "StationId": "NBHWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 12.300000
+    },
+    {
+        "StationId": "NEWPORT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NINEWIL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHGT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 231.562640
+    },
+    {
+        "StationId": "NPPPPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NYNGAN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 82.500000
+    },
+    {
+        "StationId": "OAKEY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "OAKLAND",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 16.500000
+    },
+    {
+        "StationId": "OCPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "OSBORNE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 186.187320
+    },
+    {
+        "StationId": "PALOONA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 30.369999
+    },
+    {
+        "StationId": "PEDLER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PINDARI",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PIONEER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 44.799999
+    },
+    {
+        "StationId": "PLANECRK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PLAYF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PLEYSTOW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PMATTAEP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLAND",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLCN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PORTWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 58.000000
+    },
+    {
+        "StationId": "PTH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PTINA110",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 2.139920
+    },
+    {
+        "StationId": "PTINA220",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 18.840080
+    },
+    {
+        "StationId": "QUARANTN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "RACOMIL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RCOURSE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REDBANK1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REECE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 228.450020
+    },
+    {
+        "StationId": "REMOUNT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REPULSE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 31.917124
+    },
+    {
+        "StationId": "ROCHEDAL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ROMA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.270700
+    },
+    {
+        "StationId": "ROWALLAN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ROYALLA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RPCG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 10.874403
+    },
+    {
+        "StationId": "RT_NSW1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_QLD1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_SA1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_TAS1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_VIC1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RUBICON",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SHEP1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SHOALHAV",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SITHE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 160.276700
+    },
+    {
+        "StationId": "SNOWNTH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 7.500000
+    },
+    {
+        "StationId": "SNOWSTH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 15.500000
+    },
+    {
+        "StationId": "SNOWTOWN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 2.357780
+    },
+    {
+        "StationId": "SNOWY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 430.732300
+    },
+    {
+        "StationId": "SNOWY3",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY4",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY5",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY6",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWYP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNUG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNWYGJP2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.00000
+    },
+    {
+        "StationId": "SOMERSET",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANVAC",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANWELL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1053.000030
+    },
+    {
+        "StationId": "STARFHILL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 9.597201
+    },
+    {
+        "StationId": "STGEORGE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHBKTEC",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHJST",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STPN1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNCOAST",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNSHINE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SVALE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SWANBANK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SYMEX",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TAHMOOR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TALLAWAR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 421.000000
+    },
+    {
+        "StationId": "TARALGA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 89.658750
+    },
+    {
+        "StationId": "TARONG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1050.800020
+    },
+    {
+        "StationId": "TARONGN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "TARRALEA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 81.900000
+    },
+    {
+        "StationId": "TATIARA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TATURA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TBLAND",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TEATREE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERALBA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERMSTOR",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TGNSS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "THEDROP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TITREE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOMAGO",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOORAWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TORRIS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 405.640000
+    },
+    {
+        "StationId": "TOWER",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TREVALLN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 43.990030
+    },
+    {
+        "StationId": "TRIBUTE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 71.870000
+    },
+    {
+        "StationId": "TUMUT1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT3",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUNGATIN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 73.570010
+    },
+    {
+        "StationId": "TVCCPS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "URANQ",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "UWS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICMILL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICSMLT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 898.399960
+    },
+    {
+        "StationId": "VPGS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.146130
+    },
+    {
+        "StationId": "WATERLWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 44.100000
+    },
+    {
+        "StationId": "WAUBRAWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 150.375000
+    },
+    {
+        "StationId": "WCLASS",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WDLNGN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTCBT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTILLA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WG",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WGULLY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WHIT1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPKB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILLHOV",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINDHILL",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF2",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WIVENHOE",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "WIVENSH",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WKIEWA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 29.900000
+    },
+    {
+        "StationId": "WOLLERT",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WONWP",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WOODLWN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 46.179000
+    },
+    {
+        "StationId": "WOOLNTH1",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 128.130020
+    },
+    {
+        "StationId": "WOYWOY",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WPWF",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 14.000000
+    },
+    {
+        "StationId": "WW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALA",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALB",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYNDW",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "YABULU",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YALLOURN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 1249.078460
+    },
+    {
+        "StationId": "YAMBUK",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 23.799999
+    },
+    {
+        "StationId": "YARWUN",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YWNGAHYD",
+        "TimeStamp": "2015-08-17T11:50:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLHAL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AGLNOW1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLSOM",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AMCORGR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ANGASTON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "APPIN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "APS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 146.000000
+    },
+    {
+        "StationId": "AS_NSW1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AWABAREF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "B2PS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BANKSPT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BAPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BARCALDN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BARRON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 25.560000
+    },
+    {
+        "StationId": "BASSLINK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BASTYAN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 78.680010
+    },
+    {
+        "StationId": "BAYSW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 2460.449770
+    },
+    {
+        "StationId": "BBASEHOS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BBP31",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": -3.590000
+    },
+    {
+        "StationId": "BDONGHYD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BELLBAY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BERWICK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHASZINC",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHILLGT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BHWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 96.723000
+    },
+    {
+        "StationId": "BLOWER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BLUFF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 8.300000
+    },
+    {
+        "StationId": "BLULAKE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BOCOROCK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 89.270000
+    },
+    {
+        "StationId": "BOLIVAR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BPLANDF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BRAEMARA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 159.000000
+    },
+    {
+        "StationId": "BROADMDW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROOKLYN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROWNMT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BURRIN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BUTLERSG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 9.199999
+    },
+    {
+        "StationId": "BWTR1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CALLIDE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 348.600010
+    },
+    {
+        "StationId": "CALLIDEC",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 811.524990
+    },
+    {
+        "StationId": "CALLIDEC1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CANUNDA1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 18.421490
+    },
+    {
+        "StationId": "CAPTL_WF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 128.975998
+    },
+    {
+        "StationId": "CATHROCK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 17.900000
+    },
+    {
+        "StationId": "CESF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CETHANA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CHALLWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 9.100000
+    },
+    {
+        "StationId": "CHPSTWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLAYTON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLEMGPWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": -0.432210
+    },
+    {
+        "StationId": "CLOVER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 10.410000
+    },
+    {
+        "StationId": "CLUNY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 17.276611
+    },
+    {
+        "StationId": "CODRGTON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLNSV",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLONGRA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CONDONG1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COPTNHYD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CORIO",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CPSA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 85.500000
+    },
+    {
+        "StationId": "CULLERIN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 30.410000
+    },
+    {
+        "StationId": "DAANDINE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DARTM",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 150.300000
+    },
+    {
+        "StationId": "DDPS1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 233.048970
+    },
+    {
+        "StationId": "DEIBDL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "DEVILS_G",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 63.703190
+    },
+    {
+        "StationId": "DG_NSW1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_QLD1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_SA1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_TAS1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_VIC1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DIRECTLINK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DRYCGT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EASTCRK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EASTCRK2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EDLRGNRD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EILDON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EILDONPD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ENERGYB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ERARING",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 926.750120
+    },
+    {
+        "StationId": "ERG_AS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ERGT01",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "FARLEIGH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "FISHER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 44.910000
+    },
+    {
+        "StationId": "G/STONE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 525.350000
+    },
+    {
+        "StationId": "GERMCRK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 37.599998
+    },
+    {
+        "StationId": "GLBWNHYD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENMAGG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENNCRK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GORDON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 292.388000
+    },
+    {
+        "StationId": "GRANGEAV",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GULLRGWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 158.018890
+    },
+    {
+        "StationId": "GUNNING",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 43.136490
+    },
+    {
+        "StationId": "GUTHEGA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALAMRD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALLWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 8.840000
+    },
+    {
+        "StationId": "HALLWF2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 9.180000
+    },
+    {
+        "StationId": "HAZEL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1306.000000
+    },
+    {
+        "StationId": "HEPWIND",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HEZ",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HIGHBRY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HLMSEW01",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HUMENSW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 16.808400
+    },
+    {
+        "StationId": "HUMEV",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": -0.360000
+    },
+    {
+        "StationId": "HUNTVGT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ICSM",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "INVICTA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 33.025002
+    },
+    {
+        "StationId": "JACKSGUL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JBUTTERS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 107.270000
+    },
+    {
+        "StationId": "JEERA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JEERB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JINDABYNE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JNDSHPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JOUNAMA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KAREEYA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 64.890000
+    },
+    {
+        "StationId": "KEEPIT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KINCUMB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KOGANCK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 710.700010
+    },
+    {
+        "StationId": "KOOLKHAN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KRCCOGEN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LADBROKE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LEM_WIL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 85.813500
+    },
+    {
+        "StationId": "LI_WY_CA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 174.062910
+    },
+    {
+        "StationId": "LIDDELL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1279.612430
+    },
+    {
+        "StationId": "LK_ECHO",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LKBONNY_2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 57.553370
+    },
+    {
+        "StationId": "LKBONNY1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 27.150047
+    },
+    {
+        "StationId": "LKBONNY3",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 21.826410
+    },
+    {
+        "StationId": "LNGS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.150150
+    },
+    {
+        "StationId": "LONGFORD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LONSDALE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LOYYANGA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 2022.000000
+    },
+    {
+        "StationId": "LOYYB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1071.801270
+    },
+    {
+        "StationId": "LUCAS2S2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LUCASHGT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LYGS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACARTH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 153.030000
+    },
+    {
+        "StationId": "MACKAY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MACKNADE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACKNTSH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 79.680010
+    },
+    {
+        "StationId": "MARIAN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MBAHNTH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 52.781254
+    },
+    {
+        "StationId": "MCKAY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.020000
+    },
+    {
+        "StationId": "MEADOWBK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MIDLDPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MILLMERN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 851.750000
+    },
+    {
+        "StationId": "MINTARO",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MLWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 8.325000
+    },
+    {
+        "StationId": "MM",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORANBAH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORNW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORTLK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 892.475100
+    },
+    {
+        "StationId": "MSTUART",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MTMERCER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 77.277000
+    },
+    {
+        "StationId": "MTMILLAR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 2.306807
+    },
+    {
+        "StationId": "MULGRAVE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURLINKP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 89.089980
+    },
+    {
+        "StationId": "MURRAY1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MUSSELRO",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 139.000000
+    },
+    {
+        "StationId": "NBHWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 13.000000
+    },
+    {
+        "StationId": "NEWPORT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NINEWIL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHGT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 229.609470
+    },
+    {
+        "StationId": "NPPPPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NYNGAN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 96.000000
+    },
+    {
+        "StationId": "OAKEY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "OAKLAND",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 8.600000
+    },
+    {
+        "StationId": "OCPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "OSBORNE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 186.004210
+    },
+    {
+        "StationId": "PALOONA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 30.369999
+    },
+    {
+        "StationId": "PEDLER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PINDARI",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PIONEER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 46.500000
+    },
+    {
+        "StationId": "PLANECRK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PLAYF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PLEYSTOW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PMATTAEP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLAND",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLCN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PORTWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 70.800003
+    },
+    {
+        "StationId": "PTH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PTINA110",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1.860640
+    },
+    {
+        "StationId": "PTINA220",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 22.492720
+    },
+    {
+        "StationId": "QUARANTN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "RACOMIL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RCOURSE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REDBANK1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REECE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 227.990020
+    },
+    {
+        "StationId": "REMOUNT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REPULSE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 31.821850
+    },
+    {
+        "StationId": "ROCHEDAL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ROMA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.270700
+    },
+    {
+        "StationId": "ROWALLAN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ROYALLA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RPCG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 10.897534
+    },
+    {
+        "StationId": "RT_NSW1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_QLD1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_SA1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_TAS1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_VIC1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RUBICON",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SHEP1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SHOALHAV",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SITHE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 160.364620
+    },
+    {
+        "StationId": "SNOWNTH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 7.900000
+    },
+    {
+        "StationId": "SNOWSTH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 13.000000
+    },
+    {
+        "StationId": "SNOWTOWN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1.929090
+    },
+    {
+        "StationId": "SNOWY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 442.927950
+    },
+    {
+        "StationId": "SNOWY3",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY4",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY5",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY6",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWYP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNUG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNWYGJP2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.00000
+    },
+    {
+        "StationId": "SOMERSET",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANVAC",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANWELL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1055.199970
+    },
+    {
+        "StationId": "STARFHILL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 7.997668
+    },
+    {
+        "StationId": "STGEORGE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHBKTEC",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHJST",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STPN1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNCOAST",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNSHINE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SVALE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SWANBANK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SYMEX",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TAHMOOR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TALLAWAR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 423.000000
+    },
+    {
+        "StationId": "TARALGA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 93.982500
+    },
+    {
+        "StationId": "TARONG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1051.799980
+    },
+    {
+        "StationId": "TARONGN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "TARRALEA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 82.100000
+    },
+    {
+        "StationId": "TATIARA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TATURA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TBLAND",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TEATREE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERALBA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERMSTOR",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TGNSS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "THEDROP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TITREE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOMAGO",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOORAWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TORRIS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 411.430000
+    },
+    {
+        "StationId": "TOWER",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TREVALLN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 44.070030
+    },
+    {
+        "StationId": "TRIBUTE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 70.880000
+    },
+    {
+        "StationId": "TUMUT1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT3",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUNGATIN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 73.840010
+    },
+    {
+        "StationId": "TVCCPS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "URANQ",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "UWS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICMILL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICSMLT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 905.300020
+    },
+    {
+        "StationId": "VPGS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.127870
+    },
+    {
+        "StationId": "WATERLWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 49.100000
+    },
+    {
+        "StationId": "WAUBRAWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 150.229004
+    },
+    {
+        "StationId": "WCLASS",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WDLNGN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTCBT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTILLA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WG",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WGULLY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WHIT1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPKB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILLHOV",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINDHILL",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF2",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WIVENHOE",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "WIVENSH",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WKIEWA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 30.100000
+    },
+    {
+        "StationId": "WOLLERT",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WONWP",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WOODLWN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 44.379000
+    },
+    {
+        "StationId": "WOOLNTH1",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 124.960022
+    },
+    {
+        "StationId": "WOYWOY",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WPWF",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 11.000000
+    },
+    {
+        "StationId": "WW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALA",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALB",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYNDW",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "YABULU",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YALLOURN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 1266.817740
+    },
+    {
+        "StationId": "YAMBUK",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 25.799999
+    },
+    {
+        "StationId": "YARWUN",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YWNGAHYD",
+        "TimeStamp": "2015-08-17T11:45:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLHAL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AGLNOW1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLSOM",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AMCORGR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ANGASTON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "APPIN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "APS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 145.750000
+    },
+    {
+        "StationId": "AS_NSW1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AWABAREF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "B2PS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BANKSPT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BAPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BARCALDN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BARRON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 25.560000
+    },
+    {
+        "StationId": "BASSLINK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BASTYAN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 78.930010
+    },
+    {
+        "StationId": "BAYSW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 2453.294380
+    },
+    {
+        "StationId": "BBASEHOS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BBP31",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": -3.370000
+    },
+    {
+        "StationId": "BDONGHYD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BELLBAY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BERWICK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHASZINC",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHILLGT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BHWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 96.580000
+    },
+    {
+        "StationId": "BLOWER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BLUFF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 8.500000
+    },
+    {
+        "StationId": "BLULAKE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BOCOROCK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 85.080000
+    },
+    {
+        "StationId": "BOLIVAR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BPLANDF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BRAEMARA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 159.000000
+    },
+    {
+        "StationId": "BROADMDW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROOKLYN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROWNMT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BURRIN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BUTLERSG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 9.199999
+    },
+    {
+        "StationId": "BWTR1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CALLIDE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 348.800020
+    },
+    {
+        "StationId": "CALLIDEC",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 808.500000
+    },
+    {
+        "StationId": "CALLIDEC1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CANUNDA1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 14.016351
+    },
+    {
+        "StationId": "CAPTL_WF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 123.727997
+    },
+    {
+        "StationId": "CATHROCK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 17.359999
+    },
+    {
+        "StationId": "CESF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CETHANA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CHALLWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 10.000000
+    },
+    {
+        "StationId": "CHPSTWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLAYTON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLEMGPWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.144070
+    },
+    {
+        "StationId": "CLOVER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 10.100000
+    },
+    {
+        "StationId": "CLUNY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 16.733591
+    },
+    {
+        "StationId": "CODRGTON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLNSV",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLONGRA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CONDONG1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COPTNHYD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CORIO",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CPSA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 85.500000
+    },
+    {
+        "StationId": "CULLERIN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 30.209999
+    },
+    {
+        "StationId": "DAANDINE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DARTM",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 150.300000
+    },
+    {
+        "StationId": "DDPS1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 229.502700
+    },
+    {
+        "StationId": "DEIBDL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "DEVILS_G",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 62.293500
+    },
+    {
+        "StationId": "DG_NSW1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_QLD1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_SA1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_TAS1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_VIC1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DIRECTLINK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DRYCGT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EASTCRK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EASTCRK2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EDLRGNRD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EILDON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EILDONPD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ENERGYB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ERARING",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 968.125000
+    },
+    {
+        "StationId": "ERG_AS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ERGT01",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "FARLEIGH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "FISHER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 44.940000
+    },
+    {
+        "StationId": "G/STONE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 522.200000
+    },
+    {
+        "StationId": "GERMCRK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 38.200001
+    },
+    {
+        "StationId": "GLBWNHYD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENMAGG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENNCRK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GORDON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 290.183900
+    },
+    {
+        "StationId": "GRANGEAV",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GULLRGWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 157.896000
+    },
+    {
+        "StationId": "GUNNING",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 43.906950
+    },
+    {
+        "StationId": "GUTHEGA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALAMRD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALLWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 9.560000
+    },
+    {
+        "StationId": "HALLWF2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 8.680000
+    },
+    {
+        "StationId": "HAZEL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1301.000000
+    },
+    {
+        "StationId": "HEPWIND",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HEZ",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HIGHBRY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HLMSEW01",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HUMENSW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 16.632000
+    },
+    {
+        "StationId": "HUMEV",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": -0.420000
+    },
+    {
+        "StationId": "HUNTVGT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ICSM",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "INVICTA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 33.025002
+    },
+    {
+        "StationId": "JACKSGUL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JBUTTERS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 110.490000
+    },
+    {
+        "StationId": "JEERA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JEERB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JINDABYNE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JNDSHPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JOUNAMA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KAREEYA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 64.625000
+    },
+    {
+        "StationId": "KEEPIT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KINCUMB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KOGANCK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 716.200010
+    },
+    {
+        "StationId": "KOOLKHAN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KRCCOGEN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LADBROKE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LEM_WIL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 85.713500
+    },
+    {
+        "StationId": "LI_WY_CA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 174.017730
+    },
+    {
+        "StationId": "LIDDELL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1262.793830
+    },
+    {
+        "StationId": "LK_ECHO",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LKBONNY_2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 62.438040
+    },
+    {
+        "StationId": "LKBONNY1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 27.864521
+    },
+    {
+        "StationId": "LKBONNY3",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 14.681190
+    },
+    {
+        "StationId": "LNGS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": -0.118420
+    },
+    {
+        "StationId": "LONGFORD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LONSDALE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LOYYANGA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 2006.000000
+    },
+    {
+        "StationId": "LOYYB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1065.786070
+    },
+    {
+        "StationId": "LUCAS2S2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LUCASHGT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LYGS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACARTH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 126.570000
+    },
+    {
+        "StationId": "MACKAY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MACKNADE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACKNTSH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 78.100010
+    },
+    {
+        "StationId": "MARIAN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MBAHNTH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 52.781254
+    },
+    {
+        "StationId": "MCKAY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.020000
+    },
+    {
+        "StationId": "MEADOWBK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MIDLDPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MILLMERN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 851.500000
+    },
+    {
+        "StationId": "MINTARO",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MLWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 8.309999
+    },
+    {
+        "StationId": "MM",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORANBAH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORNW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORTLK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 883.350090
+    },
+    {
+        "StationId": "MSTUART",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MTMERCER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 56.560000
+    },
+    {
+        "StationId": "MTMILLAR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 2.358896
+    },
+    {
+        "StationId": "MULGRAVE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURLINKP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 88.020540
+    },
+    {
+        "StationId": "MURRAY1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MUSSELRO",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 155.299990
+    },
+    {
+        "StationId": "NBHWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 12.800000
+    },
+    {
+        "StationId": "NEWPORT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NINEWIL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHGT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 227.656280
+    },
+    {
+        "StationId": "NPPPPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NYNGAN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 95.750000
+    },
+    {
+        "StationId": "OAKEY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "OAKLAND",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 8.300000
+    },
+    {
+        "StationId": "OCPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "OSBORNE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 186.114070
+    },
+    {
+        "StationId": "PALOONA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 30.369999
+    },
+    {
+        "StationId": "PEDLER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PINDARI",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PIONEER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 39.100002
+    },
+    {
+        "StationId": "PLANECRK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PLAYF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PLEYSTOW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PMATTAEP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLAND",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLCN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PORTWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 88.400002
+    },
+    {
+        "StationId": "PTH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PTINA110",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 7.432880
+    },
+    {
+        "StationId": "PTINA220",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 32.413600
+    },
+    {
+        "StationId": "QUARANTN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "RACOMIL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RCOURSE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REDBANK1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REECE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 227.060010
+    },
+    {
+        "StationId": "REMOUNT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REPULSE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 32.145782
+    },
+    {
+        "StationId": "ROCHEDAL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ROMA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.270700
+    },
+    {
+        "StationId": "ROWALLAN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ROYALLA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RPCG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 11.665704
+    },
+    {
+        "StationId": "RT_NSW1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_QLD1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_SA1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_TAS1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_VIC1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RUBICON",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SHEP1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SHOALHAV",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SITHE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 160.247830
+    },
+    {
+        "StationId": "SNOWNTH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 6.600000
+    },
+    {
+        "StationId": "SNOWSTH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 10.800000
+    },
+    {
+        "StationId": "SNOWTOWN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.928820
+    },
+    {
+        "StationId": "SNOWY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 433.897250
+    },
+    {
+        "StationId": "SNOWY3",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY4",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY5",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY6",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWYP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNUG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNWYGJP2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.00000
+    },
+    {
+        "StationId": "SOMERSET",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANVAC",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANWELL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1055.600040
+    },
+    {
+        "StationId": "STARFHILL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 7.497814
+    },
+    {
+        "StationId": "STGEORGE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHBKTEC",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHJST",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STPN1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNCOAST",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNSHINE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SVALE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SWANBANK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SYMEX",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TAHMOOR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TALLAWAR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 421.000000
+    },
+    {
+        "StationId": "TARALGA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 96.326250
+    },
+    {
+        "StationId": "TARONG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1050.399990
+    },
+    {
+        "StationId": "TARONGN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "TARRALEA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 82.000000
+    },
+    {
+        "StationId": "TATIARA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TATURA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TBLAND",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TEATREE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERALBA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERMSTOR",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TGNSS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "THEDROP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TITREE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOMAGO",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOORAWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TORRIS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 406.880000
+    },
+    {
+        "StationId": "TOWER",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TREVALLN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 45.180030
+    },
+    {
+        "StationId": "TRIBUTE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 71.530000
+    },
+    {
+        "StationId": "TUMUT1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT3",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUNGATIN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 73.500020
+    },
+    {
+        "StationId": "TVCCPS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "URANQ",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "UWS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICMILL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICSMLT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 897.699980
+    },
+    {
+        "StationId": "VPGS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 20.572860
+    },
+    {
+        "StationId": "WATERLWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 48.100000
+    },
+    {
+        "StationId": "WAUBRAWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 125.185997
+    },
+    {
+        "StationId": "WCLASS",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WDLNGN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTCBT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTILLA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WG",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WGULLY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WHIT1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPKB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILLHOV",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINDHILL",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF2",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WIVENHOE",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "WIVENSH",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WKIEWA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 29.800000
+    },
+    {
+        "StationId": "WOLLERT",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WONWP",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WOODLWN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 46.683000
+    },
+    {
+        "StationId": "WOOLNTH1",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 122.210022
+    },
+    {
+        "StationId": "WOYWOY",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WPWF",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 8.000000
+    },
+    {
+        "StationId": "WW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALA",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALB",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYNDW",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "YABULU",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YALLOURN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 1247.292420
+    },
+    {
+        "StationId": "YAMBUK",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 23.600000
+    },
+    {
+        "StationId": "YARWUN",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YWNGAHYD",
+        "TimeStamp": "2015-08-17T11:40:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLHAL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AGLNOW1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AGLSOM",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "AMCORGR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ANGASTON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "APPIN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "APS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 146.250000
+    },
+    {
+        "StationId": "AS_NSW1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "AWABAREF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "B2PS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BANKSPT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BAPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BARCALDN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BARRON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 25.560000
+    },
+    {
+        "StationId": "BASSLINK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BASTYAN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 79.000010
+    },
+    {
+        "StationId": "BAYSW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 2475.773320
+    },
+    {
+        "StationId": "BBASEHOS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BBP31",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": -3.780000
+    },
+    {
+        "StationId": "BDONGHYD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BELLBAY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BERWICK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHASZINC",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BHILLGT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "BHWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 98.335000
+    },
+    {
+        "StationId": "BLOWER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BLUFF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 7.600000
+    },
+    {
+        "StationId": "BLULAKE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BOCOROCK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 92.940000
+    },
+    {
+        "StationId": "BOLIVAR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BPLANDF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BRAEMARA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 159.600010
+    },
+    {
+        "StationId": "BROADMDW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROOKLYN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BROWNMT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BURRIN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "BUTLERSG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 9.199999
+    },
+    {
+        "StationId": "BWTR1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CALLIDE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 350.099990
+    },
+    {
+        "StationId": "CALLIDEC",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 809.600000
+    },
+    {
+        "StationId": "CALLIDEC1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CANUNDA1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 16.018686
+    },
+    {
+        "StationId": "CAPTL_WF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 127.800003
+    },
+    {
+        "StationId": "CATHROCK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 18.070000
+    },
+    {
+        "StationId": "CESF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CETHANA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CHALLWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 14.000000
+    },
+    {
+        "StationId": "CHPSTWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLAYTON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CLEMGPWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": -0.216110
+    },
+    {
+        "StationId": "CLOVER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 10.410000
+    },
+    {
+        "StationId": "CLUNY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 17.076550
+    },
+    {
+        "StationId": "CODRGTON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLNSV",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COLONGRA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "CONDONG1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "COPTNHYD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CORIO",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "CPSA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 85.500000
+    },
+    {
+        "StationId": "CULLERIN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 30.420000
+    },
+    {
+        "StationId": "DAANDINE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DARTM",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 149.899990
+    },
+    {
+        "StationId": "DDPS1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 234.587100
+    },
+    {
+        "StationId": "DEIBDL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "DEVILS_G",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 62.560200
+    },
+    {
+        "StationId": "DG_NSW1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_QLD1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_SA1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_TAS1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DG_VIC1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DIRECTLINK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "DRYCGT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EASTCRK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EASTCRK2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EDLRGNRD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "EILDON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "EILDONPD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ENERGYB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ERARING",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 966.775020
+    },
+    {
+        "StationId": "ERG_AS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ERGT01",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "FARLEIGH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "FISHER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 44.930000
+    },
+    {
+        "StationId": "G/STONE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 507.500000
+    },
+    {
+        "StationId": "GERMCRK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 38.099998
+    },
+    {
+        "StationId": "GLBWNHYD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENMAGG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GLENNCRK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GORDON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 292.792330
+    },
+    {
+        "StationId": "GRANGEAV",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "GULLRGWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 155.755860
+    },
+    {
+        "StationId": "GUNNING",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 43.704620
+    },
+    {
+        "StationId": "GUTHEGA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALAMRD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HALLWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 7.580000
+    },
+    {
+        "StationId": "HALLWF2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 10.110000
+    },
+    {
+        "StationId": "HAZEL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1306.000000
+    },
+    {
+        "StationId": "HEPWIND",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HEZ",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HIGHBRY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HLMSEW01",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "HUMENSW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 16.836750
+    },
+    {
+        "StationId": "HUMEV",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": -0.360000
+    },
+    {
+        "StationId": "HUNTVGT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ICSM",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "INVICTA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 33.025002
+    },
+    {
+        "StationId": "JACKSGUL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JBUTTERS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 110.420000
+    },
+    {
+        "StationId": "JEERA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JEERB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "JINDABYNE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JNDSHPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "JOUNAMA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KAREEYA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 64.972500
+    },
+    {
+        "StationId": "KEEPIT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KINCUMB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KOGANCK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 715.650020
+    },
+    {
+        "StationId": "KOOLKHAN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "KRCCOGEN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LADBROKE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LEM_WIL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 85.756350
+    },
+    {
+        "StationId": "LI_WY_CA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 174.548130
+    },
+    {
+        "StationId": "LIDDELL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1270.762580
+    },
+    {
+        "StationId": "LK_ECHO",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "LKBONNY_2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 69.091350
+    },
+    {
+        "StationId": "LKBONNY1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 30.811729
+    },
+    {
+        "StationId": "LKBONNY3",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 17.918870
+    },
+    {
+        "StationId": "LNGS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.150150
+    },
+    {
+        "StationId": "LONGFORD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LONSDALE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LOYYANGA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 2026.000000
+    },
+    {
+        "StationId": "LOYYB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1068.417720
+    },
+    {
+        "StationId": "LUCAS2S2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LUCASHGT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "LYGS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACARTH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 126.110000
+    },
+    {
+        "StationId": "MACKAY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MACKNADE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MACKNTSH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 78.640010
+    },
+    {
+        "StationId": "MARIAN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MBAHNTH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 52.781254
+    },
+    {
+        "StationId": "MCKAY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.020000
+    },
+    {
+        "StationId": "MEADOWBK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MIDLDPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MILLMERN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 851.750000
+    },
+    {
+        "StationId": "MINTARO",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MLWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 8.115000
+    },
+    {
+        "StationId": "MM",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORANBAH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORNW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MORTLK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 901.550050
+    },
+    {
+        "StationId": "MSTUART",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "MTMERCER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 52.797000
+    },
+    {
+        "StationId": "MTMILLAR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 2.254717
+    },
+    {
+        "StationId": "MULGRAVE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURLINKP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 89.790000
+    },
+    {
+        "StationId": "MURRAY1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MURRAY2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "MUSSELRO",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 158.200000
+    },
+    {
+        "StationId": "NBHWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 11.500000
+    },
+    {
+        "StationId": "NEWPORT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NINEWIL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHGT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "NORTHP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 232.050930
+    },
+    {
+        "StationId": "NPPPPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "NYNGAN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 89.500000
+    },
+    {
+        "StationId": "OAKEY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "OAKLAND",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 11.500000
+    },
+    {
+        "StationId": "OCPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "OSBORNE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 186.022520
+    },
+    {
+        "StationId": "PALOONA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 30.279999
+    },
+    {
+        "StationId": "PEDLER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PINDARI",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PIONEER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 41.000000
+    },
+    {
+        "StationId": "PLANECRK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PLAYF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PLEYSTOW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PMATTAEP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLAND",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PORTLCN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "PORTWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 80.500000
+    },
+    {
+        "StationId": "PTH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "PTINA110",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 22.825440
+    },
+    {
+        "StationId": "PTINA220",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 31.746800
+    },
+    {
+        "StationId": "QUARANTN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "RACOMIL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RCOURSE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REDBANK1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REECE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 227.350010
+    },
+    {
+        "StationId": "REMOUNT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "REPULSE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 31.745628
+    },
+    {
+        "StationId": "ROCHEDAL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "ROMA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.270700
+    },
+    {
+        "StationId": "ROWALLAN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "ROYALLA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RPCG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 11.678798
+    },
+    {
+        "StationId": "RT_NSW1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_QLD1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_SA1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_TAS1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RT_VIC1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "RUBICON",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SHEP1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SHOALHAV",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SITHE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 161.247590
+    },
+    {
+        "StationId": "SNOWNTH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 7.700000
+    },
+    {
+        "StationId": "SNOWSTH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 8.800000
+    },
+    {
+        "StationId": "SNOWTOWN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1.571850
+    },
+    {
+        "StationId": "SNOWY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 442.489840
+    },
+    {
+        "StationId": "SNOWY3",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWY4",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY5",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNOWY6",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNOWYP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SNUG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SNWYGJP2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.00000
+    },
+    {
+        "StationId": "SOMERSET",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANVAC",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STANWELL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1059.399990
+    },
+    {
+        "StationId": "STARFHILL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 7.497814
+    },
+    {
+        "StationId": "STGEORGE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHBKTEC",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STHJST",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "STPN1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNCOAST",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SUNSHINE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SVALE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "SWANBANK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "SYMEX",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TAHMOOR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TALLAWAR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 421.000000
+    },
+    {
+        "StationId": "TARALGA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 96.217500
+    },
+    {
+        "StationId": "TARONG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1055.600000
+    },
+    {
+        "StationId": "TARONGN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "TARRALEA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 82.100000
+    },
+    {
+        "StationId": "TATIARA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TATURA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TBLAND",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TEATREE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERALBA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TERMSTOR",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TGNSS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "THEDROP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TITREE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOMAGO",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TOORAWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TORRIS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 424.200000
+    },
+    {
+        "StationId": "TOWER",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TREVALLN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 71.990030
+    },
+    {
+        "StationId": "TRIBUTE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 71.400000
+    },
+    {
+        "StationId": "TUMUT1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUMUT3",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "TUNGATIN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 74.140010
+    },
+    {
+        "StationId": "TVCCPS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "URANQ",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "UWS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICMILL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VICSMLT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "VP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 896.825050
+    },
+    {
+        "StationId": "VPGS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 49.722510
+    },
+    {
+        "StationId": "WATERLWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 50.700000
+    },
+    {
+        "StationId": "WAUBRAWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 104.556000
+    },
+    {
+        "StationId": "WCLASS",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WDLNGN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTCBT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WESTILLA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WG",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WGULLY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WHIT1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILGAPKB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WILLHOV",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINDHILL",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WINGF2",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WIVENHOE",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "WIVENSH",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WKIEWA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 30.000000
+    },
+    {
+        "StationId": "WOLLERT",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WONWP",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WOODLWN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 46.511990
+    },
+    {
+        "StationId": "WOOLNTH1",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 125.320023
+    },
+    {
+        "StationId": "WOYWOY",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WPWF",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 6.000000
+    },
+    {
+        "StationId": "WW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALA",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYANGALB",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "WYNDW",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    },
+    {
+        "StationId": "YABULU",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YALLOURN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 1253.312660
+    },
+    {
+        "StationId": "YAMBUK",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 25.299999
+    },
+    {
+        "StationId": "YARWUN",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": 0.000000
+    },
+    {
+        "StationId": "YWNGAHYD",
+        "TimeStamp": "2015-08-17T11:35:00+10:00",
+        "Generation": null
+    }
+]

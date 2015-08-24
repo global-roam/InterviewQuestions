@@ -1,0 +1,26 @@
+// A collection of circular regions, defined by their radius and GPS coordinates
+
+// -- Units --
+// Radius: Kilometres
+// Latitude/Longitude: Decimal Degrees
+
+[
+    {
+        "Name": "Brisbane CBD",
+        "RadiusInKm": 100,
+        "Latitude": -27.4702796,
+        "Longitude": 153.023036
+    },
+    {
+        "Name": "South-West Queensland",
+        "RadiusInKm": 640,
+        "Latitude": -27.916766641249062,
+        "Longitude": 145.4150390625
+    },
+    {
+        "Name": "North-West Queensland",
+        "RadiusInKm": 640,
+        "Latitude": -20.879342971957897,
+        "Longitude": 142.5146484375
+    }
+]
