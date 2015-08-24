@@ -5,9 +5,9 @@ The application takes three json files as input (station-metadata.json, station-
 
 We need you to calculate which power stations fall geographically within each region, then sum their generation by region, for each point in time.
 
-The output should be another json file with the following format:
+The output should be another json file with the following format (minus the comments):
 
-~~~json
+~~~javascript
 [
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
