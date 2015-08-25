@@ -4,15 +4,21 @@ Imagine our client needs an application that can calculate the sum of generation
 for all power stations in a collection of regions, over *n* points in time.
 
 The application takes three json files as input:
-- **station-metadata.json:** A collection of power station metadata including the id, name and GPS coordinates for each power station;
-- **station-generation.json:** A collection of generation readings for each power station, for *n* points in time;
-- **regions.json:** A collection of circular regions, defined by their radius (inclusive) and GPS coordinates.
+- **station-metadata.json:** A collection of power station metadata including
+  the id, name and GPS coordinates for each power station;
+- **station-generation.json:** A collection of generation readings for each
+  power station, for *n* points in time;
+- **regions.json:** A collection of circular regions, defined by their radius
+  (inclusive) and GPS coordinates.
 
-All latitudes and longitudes are in decimal degrees, and all generation is in megawatts (MW).
+All latitudes and longitudes are in decimal degrees, and all generation is in
+megawatts (MW).
 
-We need you to calculate which power stations fall geographically within each region, then sum their generation by region, for each point in time.
+We need you to calculate which power stations fall geographically within each
+region, then sum their generation by region, for each point in time.
 
-The output should be another json file with the following format (minus the comments):
+The output should be another json file with the following format (minus the
+comments):
 
 ~~~javascript
 // This is just example data...
@@ -39,8 +45,19 @@ The output should be another json file with the following format (minus the comm
 ]
 ~~~
 
-You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance from GPS coordinates (don't forget about converting from radians to degrees).
+You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance)
+to calculate the distance between GPS coordinates (don't forget about converting
+from decimal degrees to radians).
 
-Imagine this is a product for our clients, so we need it to be robust and tested. Let us know any assumptions you make.
+Imagine this is a product for our clients, so we need it to be robust and tested.
+Let us know any assumptions you make.
 
-You are welcome to write the program in a language of your choosing, though we would prefer *C#* if possible. You can use any libraries you like - don't feel you have to write everything yourself.
+You are welcome to write the program in a language of your choosing, though we
+would prefer *C#* if possible. You can use any libraries you like - don't feel
+you have to write everything yourself.
+
+Please make the source code of your final solution available to us via dropbox,
+email, private github or some other method (we just ask that you don't make the
+solution public). What we're really interested in is *how* you solve the problem.
+For example, is your code readable, robust and extensible? We will be keen to
+discuss your solution with you during your interview.
