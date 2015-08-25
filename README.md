@@ -1,6 +1,6 @@
 # Question
 
-Our client needs an application that can calculate the sum of generation
+Imagine our client needs an application that can calculate the sum of generation
 for all power stations in a collection of regions, over *n* points in time.
 
 The application takes three json files as input:
@@ -19,21 +19,21 @@ The output should be another json file with the following format (minus the comm
 [
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
-		"Region": "Brisbane CBD",
-		"SummedGeneration": 1000 // Summed generation (in MW) for each power station in the region "Brisbane CBD" for 11AM
+		"Region": "QLD",
+		"SummedGeneration": 1000 // Summed generation (in MW) for each power station in the region "QLD" for 11AM
 	},
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
-		"Region": "South-West Queensland",
-		"SummedGeneration": 1500 // Summed generation for "South-West Queensland" for 11AM
+		"Region": "NSW",
+		"SummedGeneration": 1500 // Summed generation for "NSW" for 11AM
 
 	},
 	...
 	,
 	{
 		"TimeStamp": "2015-08-17T11:05:00+10:00",
-		"Region": "Brisbane CBD",
-		"SummedGeneration": 900 // Summed generation for "Brisbane CBD" for 11:05AM
+		"Region": "QLD",
+		"SummedGeneration": 900 // Summed generation for "QLD" for 11:05AM
 	},
 	...
 ]
@@ -41,6 +41,6 @@ The output should be another json file with the following format (minus the comm
 
 You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance from GPS coordinates (don't forget about converting from radians to degrees).
 
-This is a product for our clients, so we need it to be robust and tested. Let us know any assumptions you make.
+Imagine this is a product for our clients, so we need it to be robust and tested. Let us know any assumptions you make.
 
 You are welcome to write the program in a language of your choosing, though we would prefer *C#* if possible. You can use any libraries you like - don't feel you have to write everything yourself.
