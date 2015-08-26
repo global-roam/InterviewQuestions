@@ -32,10 +32,8 @@ comments):
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
 		"Region": "NSW",
 		"SummedGeneration": 1500 // Summed generation for "NSW" for 11AM
-
 	},
 	...
-	,
 	{
 		"TimeStamp": "2015-08-17T11:05:00+10:00",
 		"Region": "QLD",
@@ -53,7 +51,7 @@ Imagine this is a product for our clients, so we need it to be robust and tested
 Let us know any assumptions you make.
 
 You are welcome to write the program in a language of your choosing, though we
-would prefer *C#* if possible. You can use any libraries you like - don't feel
+would prefer **C#** if possible. You can use any libraries you like - don't feel
 you have to write everything yourself.
 
 Please make the source code of your final solution available to us via dropbox,
