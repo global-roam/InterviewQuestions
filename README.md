@@ -9,7 +9,7 @@ The application takes three json files as input:
 - **station-generation.json:** A collection of generation readings for each
   power station, for *n* points in time;
 - **regions.json:** A collection of circular regions, defined by their radius
-  (inclusive) and GPS coordinates.
+  (inclusive) and the GPS coordinates of their centre.
 
 All latitudes and longitudes are in decimal degrees, and all generation is in
 megawatts (MW).
