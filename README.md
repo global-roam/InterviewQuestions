@@ -57,4 +57,4 @@ Please make the source code of your final solution available to us via dropbox,
 email, private github or some other method (we just ask that you don't make the
 solution public). What we're really interested in is *how* you solve the problem.
 For example, is your code readable, robust and extensible? We will be keen to
-discuss your solution with you during your interview.
+discuss your solution with you.
