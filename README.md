@@ -1,21 +1,20 @@
 # Question
 
-Imagine our client needs an application that can calculate the sum of generation
-for all power stations in a collection of regions, over *n* points in time.
+Imagine our client needs an application that can calculate the total instantaneous power station generation in a collection of geographical regions, at *n* points in time.
 
 The application takes three json files as input:
 - **station-metadata.json:** A collection of power station metadata including
-  the id, name and GPS coordinates for each power station;
-- **station-generation.json:** A collection of generation readings for each
+  the id, name and GPS coordinates of each power station;
+- **station-generation.json:** A collection of instantaneous generation readings for each
   power station, for *n* points in time;
-- **regions.json:** A collection of circular regions, defined by their radius
-  (inclusive) and the GPS coordinates of their centre.
+- **regions.json:** A collection of circular geographical regions, defined by their radius
+  (inclusive) and the GPS coordinates at their centre.
 
 All latitudes and longitudes are in decimal degrees, and all generation is in
 megawatts (MW).
 
 We need you to calculate which power stations fall geographically within each
-region, then sum their generation by region, for each point in time.
+region, then sum their instantaneous generation by region, for each point in time.
 
 The output should be another json file with the following format (minus the
 comments):
