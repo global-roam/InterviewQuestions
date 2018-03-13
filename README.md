@@ -47,7 +47,7 @@ to calculate the distance between GPS coordinates (don't forget about converting
 from decimal degrees to radians).
 
 Imagine this is a product for our clients, so we need it to be robust and tested.
-Let us know any assumptions you make.
+Let us know any assumptions you make. We don't want this to take too long, so a simple console app is sufficient. Our focus will be on the quality of the code, not the quantity.
 
 You are welcome to write the program in a language of your choosing, though we
 would prefer **C#** if possible. You can use any libraries you like - don't feel
