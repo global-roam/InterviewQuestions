@@ -41,7 +41,7 @@ The first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Gr
 
 # Other Considerations
 
--   The first thing we'll want to do (before we even look at your code) is to **demonstrate your running solution** so please make that easy for us; that can be anything from a simple command line to run to point us to an already deployed app
+-   The first thing we'll want to do (before we even look at your code) is to **demonstrate your running solution** so please make that easy for us; that can be anything from a simple command line to run to pointing us to an already deployed app
 -   We don't want this to take you too long, so keep the solution (especially the UI) simple. Our focus will be on the quality of the code, not the quantity
 -   You are welcome to write in any language of your choosing. If you need help making a choice we're mostly familiar with **`C#`**, **`JavaScript`** or **`TypeScript`**
 -   You can use 3rd party libraries if you like - don't feel you have to write everything yourself
