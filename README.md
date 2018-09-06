@@ -1,31 +1,26 @@
 # Question
 
-Imagine our client needs an application that can calculate the total instantaneous power station generation in a collection of geographical regions, at *n* points in time.
+Imagine our client needs an application that can calculate the total instantaneous power station generation in a number of geographical regions, at various times of the day.
 
-The application takes three json files as input:
-- **station-metadata.json:** A collection of power station metadata including
-  the id, name and GPS coordinates of each power station;
-- **station-generation.json:** A collection of instantaneous generation readings for each
-  power station, for *n* points in time;
-- **regions.json:** A collection of circular geographical regions, defined by their radius
-  (inclusive) and the GPS coordinates at their centre.
+The application takes three files as input:
 
-All latitudes and longitudes are in decimal degrees, and all generation is in
-megawatts (MW).
+-   **station-metadata.json:** power station metadata including the id, name and GPS coordinates of each power station;
+-   **station-generation.json:** instantaneous generation readings for each power station, for multiple points in time;
+-   **regions.json:** A collection of circular geographical regions, defined by their radius (inclusive) and the GPS coordinates at their centre.
 
-We need you to calculate which power stations fall geographically within each
-region, then sum their instantaneous generation by region, for each point in time.
+All latitudes and longitudes are in decimal degrees, and all generation is in megawatts (MW).
 
-The output should be another json file with the following format (minus the
-comments):
+We need you to calculate which power stations fall geographically within each region, then sum their instantaneous generation by region, for each point in time.
 
-~~~javascript
+The output should be another json file with the following format (minus the comments):
+
+```javascript
 // This is just example data...
 [
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
 		"Region": "QLD",
-		"SummedGeneration": 1000 // Summed generation (in MW) for each power station in the region "QLD" for 11AM
+		"SummedGeneration": 1000 // Summed generation (in MW) for power stations in the region "QLD" for 11AM
 	},
 	{
 		"TimeStamp": "2015-08-17T11:00:00+10:00",
@@ -40,21 +35,16 @@ comments):
 	},
 	...
 ]
-~~~
+```
 
-You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance)
-to calculate the distance between GPS coordinates (don't forget about converting
-from decimal degrees to radians).
+The first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) can be used to calculate the distance between GPS coordinates (don't forget about converting from decimal degrees to radians).
 
-Imagine this is a product for our clients, so we need it to be robust and tested.
-Let us know any assumptions you make. We don't want this to take too long, so a simple console app is sufficient. Our focus will be on the quality of the code, not the quantity.
+# Other Considerations
 
-You are welcome to write the program in a language of your choosing, though we
-would prefer **C#** if possible. You can use any libraries you like - don't feel
-you have to write everything yourself.
-
-Please make the source code of your final solution available to us via dropbox,
-email, private github or some other method (we just ask that you don't make the
-solution public). What we're really interested in is *how* you solve the problem.
-For example, is your code readable, robust and extensible? We will be keen to
-discuss your solution with you.
+-   The first thing we'll want to do (before we even look at your code) is to **demonstrate your running solution** so please make that easy for us; that can be anything from a simple command line to run to point us to an already deployed app
+-   We don't want this to take you too long, so keep the solution (especially the UI) simple. Our focus will be on the quality of the code, not the quantity
+-   You are welcome to write in any language of your choosing. If you need help making a choice we're mostly familiar with **`C#`**, **`JavaScript`** or **`TypeScript`**
+-   You can use 3rd party libraries if you like - don't feel you have to write everything yourself
+-   Please don't make the source code of your final solution public (use dropbox, email, private github etc.)
+-   If you think it's appropriate, include a README with your code to describe any decisions you made along the way
+-   What we're want to know is _how_ you go about your solution. For example, is your code readable, robust and extensible? We will be keen to to discuss your solution with you
